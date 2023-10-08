@@ -7,3 +7,5 @@
 * Extract info from image
 * Train a Model to Recognize sensitive info
 * Once trained, identify the sensitive info from the image and produce the prob score for each
+
+#### Completed the project for Microsoft Hack
